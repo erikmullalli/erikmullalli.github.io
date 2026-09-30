@@ -1,6 +1,6 @@
 ---
 title: "Erik Moullalli"
-image: "headshot.PNG"
+image: "headshot.png"
 about:
   template: jolla
   links:
