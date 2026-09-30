@@ -1,0 +1,19 @@
+---
+title: "Erik Moullalli"
+image: "headshot.PNG"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/erik-mullalli-6485b1348/
+    - icon: envelope
+      text: Email
+      href: mailto:emullalli@uark.edu
+---
+
+I’m an Industrial Engineering student at the University of Arkansas,
+graduating in May 2029. Originally from Greece, I’m interested in
+operations, technology, and improving how things work.
+
+Explore my About page, projects, and résumé to learn more.

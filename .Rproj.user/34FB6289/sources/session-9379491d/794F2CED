@@ -1,0 +1,31 @@
+{
+    "id": "794F2CED",
+    "path": "~/erik-portfolio/resume.qmd",
+    "project_path": "resume.qmd",
+    "type": "quarto_markdown",
+    "hash": "3912369012",
+    "contents": "",
+    "dirty": false,
+    "created": 1790785613726.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1790786379,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1790786379216,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m an Industrial Engineering student at the University of Arkansas, expecting to graduate in May 2029. Originally from Drama, Greece, I completed a year of coursework at Northwest Arkansas Community College before transferring to the university. I’m interested in how better planning, organized information, and practical problem-solving can improve everyday operations.\nI currently work as a Classroom Technology Assistant at the University of Arkansas, supporting faculty and staff in classrooms, lecture halls, and presentation spaces. I troubleshoot audiovisual equipment, help set up instructional technology, and document technical issues and their resolutions. This role gives me experience responding to problems quickly and communicating clearly with the people who rely on these systems.\nAlongside my studies, I help coordinate operations for my family’s heavy machinery rental business in Greece. I maintain spreadsheets tracking machinery availability and maintenance status, organize schedules for maintenance workers, and contact them when service is needed. My responsibilities focus on keeping track of which machines are ready to rent and coordinating the work needed to prepare the others.\nPreviously, I worked at Sklavenitis Supermarket in Greece, starting with cashier duties and shelf restocking in June 2023. From January through August 2024, my responsibilities included maintaining inventory spreadsheets, checking stock levels, and identifying products that needed to be ordered. This experience introduced me to the daily decisions involved in keeping products available and operations organized.\nI speak Greek, Albanian, and English. Through my coursework and work experience, I’m continuing to develop my skills in spreadsheet management, scheduling, technical troubleshooting, and process improvement. I look forward to building on this foundation and applying what I learn to engineering and operations challenges.\nFeel free to explore my projects and résumé, or connect with me through LinkedIn or email."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 30, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Erik Moullalli",
+    "section": "",
+    "text": "I’m an Industrial Engineering student at the University of Arkansas, graduating in May 2029. Originally from Greece, I’m interested in operations, technology, and improving how things work.\nExplore my About page, projects, and résumé to learn more."
+  }
+]

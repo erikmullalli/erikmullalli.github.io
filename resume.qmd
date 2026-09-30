@@ -1,0 +1,8 @@
+---
+title: "Resume"
+---
+
+
+<iframe width="800" height="1000"
+src="ERIK-FINAL-RESUME.pdf">
+</iframe>
